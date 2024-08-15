@@ -1,0 +1,23 @@
+{
+  "name": "Informative Coding",
+  "description": "Informative Coding is a non-profit organization that helps to learn technology in Bangla. The purpose of which is to motivate people to learn technology by simply introducing them to technology.",
+  "video_url": "https://github.com/Muhammad-Minhaj/portfolio/blob/main/assets/videos/1.mp4?raw=true",
+  "video_source_type": "internal",
+  "thumbnail": "https://raw.githubusercontent.com/Muhammad-Minhaj/portfolio/main/assets/thumbnails/1.png",
+  "date": "05-11-2019 - present",
+  "demo_link": "https://informativecoding.github.io",
+  "source_link": "https://github.com/InformativeCoding",
+  "gallery": [
+    "https://swiperjs.com/demos/images/nature-1.jpg",
+    "https://swiperjs.com/demos/images/nature-2.jpg",
+    "https://swiperjs.com/demos/images/nature-3.jpg",
+    "https://swiperjs.com/demos/images/nature-4.jpg",
+    "https://swiperjs.com/demos/images/nature-5.jpg",
+    "https://swiperjs.com/demos/images/nature-6.jpg",
+    "https://swiperjs.com/demos/images/nature-7.jpg",
+    "https://swiperjs.com/demos/images/nature-8.jpg",
+    "https://swiperjs.com/demos/images/nature-9.jpg",
+    "https://swiperjs.com/demos/images/nature-10.jpg"
+  ],
+  "tags": ["JavaScript", "ReactJs", "NextJs", "Material-UI", "More..."]
+}

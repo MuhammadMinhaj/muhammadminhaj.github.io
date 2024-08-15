@@ -1,0 +1,205 @@
+[
+  {
+    "id": 1,
+    "slug": "informative-coding",
+    "name": "Informative Coding",
+    "description": "Informative Coding is a non-profit organization that helps to learn technology in Bangla. The purpose of which is to motivate people to learn technology by simply introducing them to technology.",
+    "thumbnail": "/storage/assets/thumbnails/1.png",
+    "date": "05-11-2019 - present",
+    "demo_link": "https://blusofy.github.io/informative-coding",
+    "source_link": "https://github.com/InformativeCoding",
+    "tags": ["JavaScript", "ReactJs", "NextJs", "Material-UI", "More..."],
+    "category_name": "web-development"
+  },
+  {
+    "id": 2,
+    "slug": "dr-omar-danouns-blog-website",
+    "name": "Dr. Omar Danoun's Blog Website",
+    "description": "A comprehensive project featuring a robust backend built with Express.js, Node.js, and Mongoose, a modern front-end using React.js and TailwindCSS, and a versatile admin panel for managing content and users. This solution ensures a seamless experience for both site visitors and administrators.",
+    "thumbnail": "/storage/assets/thumbnails/2.png",
+    "date": "14-02-2022 - present",
+    "demo_link": "http://dromardanoun.com",
+    "source_link": "https://github.com/MuhammadMinhaj",
+    "tags": [
+      "JavaScript",
+      "React.js",
+      "Next.js",
+      "Material-UI",
+      "TailwindCSS",
+      "MongoDB",
+      "Docker",
+      "And More..."
+    ],
+    "category_name": "web-development"
+  },
+  {
+    "id": 3,
+    "slug": "laptop-optimize-e-commerce-website",
+    "name": "Laptop Optimize (E-Commerce Website)",
+    "description": "Laptop optimize is an eCommerce website developed by MERN stack technologies.",
+    "thumbnail": "/storage/assets/thumbnails/3.png",
+    "date": "05-11-2021 - 08-11-2021",
+    "demo_link": "https://minhaj-laptopoptimize.web.app",
+    "source_link": "https://github.com/MuhammadMinhaj/LaptopOptimize-Shop",
+    "tags": [
+      "JavaScript",
+      "NodeJs",
+      "ExpressJs",
+      "MongoDB",
+      "ReactJs",
+      "Material-UI",
+      "Firebase",
+      "More..."
+    ],
+    "category_name": "web-development"
+  },
+  {
+    "id": 4,
+    "slug": "laptop-optimize-admin-panel",
+    "name": "Laptop Optimize (Admin Panel)",
+    "description": "This is an admin panel for managing the 'Laptop optimize' website that is developed by MERN stack technologies. Login credentials - email: admin@admin.com password: admin ",
+    "thumbnail": "/storage/assets/thumbnails/4.png",
+    "date": "08-11-2021 - 10-11-2021",
+    "demo_link": "https://minhaj-laptopoptimize.web.app/admin/login",
+    "source_link": "https://github.com/MuhammadMinhaj/LaptopOptimize-Shop",
+    "tags": [
+      "JavaScript",
+      "NodeJs",
+      "ExpressJs",
+      "MongoDB",
+      "ReactJs",
+      "Material-UI",
+      "Firebase",
+      "More..."
+    ],
+    "category_name": "web-development"
+  },
+
+  {
+    "id": 5,
+    "slug": "portfolio-website",
+    "name": "Portfolio Website",
+    "description": "This is a simple portfolio website developed with ReactJs and NextJs and many more technologies have been used to develop this website. Thank you",
+    "thumbnail": "/storage/assets/thumbnails/5.png",
+    "date": "23-12-2020 - 01-02-2021",
+    "demo_link": "https://muhammadminhaj.github.io/portfolio-website",
+    "source_link": "https://github.com/MuhammadMinhaj/portfolio-website",
+    "tags": [
+      "JavaScript",
+      "ReactJs",
+      "Material-UI",
+      "NextJs",
+      "Redux",
+      "React-scroll",
+      "Axios",
+      "More..."
+    ],
+    "category_name": "web-development"
+  },
+  {
+    "id": 6,
+    "slug": "school-management-syste-website",
+    "name": "School Management System (Website)",
+    "description": "I've made School Management System (Website, Admin Panel, and Teacher Panel). This is a large project built by NodeJs and Ejs, as the database, I've used MongoDB and mongoose library. I spent a lot of time building this project, where I've created design templates and implemented them in coding. Full documentation and visualization of this project are coming soon. Thanks & regards!",
+    "thumbnail": "/storage/assets/thumbnails/6.png",
+    "date": "28-04-2020 - 11-11-2020",
+    "demo_link": "https://jasa-edu.herokuapp.com",
+    "source_link": "https://github.com/MuhammadMinhaj/School-Management-System",
+    "tags": [
+      "JavaScript",
+      "NodeJs",
+      "ExpressJs",
+      "Bootstrap",
+      "EJS",
+      "Axios",
+      "More..."
+    ],
+    "category_name": "web-development"
+  },
+  {
+    "id": 7,
+    "slug": "school-management-system-teacher-panel",
+    "name": "School Management System (Teacher Panel)",
+    "description": "I've made School Management System (Website, Admin Panel, and Teacher Panel). This is a large project built by NodeJs and Ejs, as the database, I've used MongoDB and mongoose library. I spent a lot of time building this project, where I've created design templates and implemented them in coding. Full documentation and visualization of this project are coming soon. Thanks & regards! Login - Email: user@user.com & Password: user",
+    "thumbnail": "/storage/assets/thumbnails/7.png",
+    "date": "28-04-2020 - 11-11-2020",
+    "demo_link": "https://jasa-edu.herokuapp.com/user/auth/login",
+    "source_link": "https://github.com/MuhammadMinhaj/School-Management-System",
+    "tags": [
+      "JavaScript",
+      "NodeJs",
+      "ExpressJs",
+      "Bootstrap",
+      "EJS",
+      "Axios",
+      "More..."
+    ],
+    "category_name": "web-development"
+  },
+  {
+    "id": 8,
+    "slug": "school-management-system-admin-panel-cms",
+    "name": "School Management System (Admin Panel | CMS)",
+    "description": "I've made School Management System (Website, Admin Panel, and Teacher Panel). This is a large project built by NodeJs and Ejs, as the database, I've used MongoDB and mongoose library. I spent a lot of time building this project, where I've created design templates and implemented them in coding. Full documentation and visualization of this project are coming soon. Thanks & regards! Login - Email: admin@admin.com & Password: admin",
+    "thumbnail": "/storage/assets/thumbnails/8.png",
+    "date": "28-04-2020 - 11-11-2020",
+    "demo_link": "https://jasa-edu.herokuapp.com/auth/login",
+    "source_link": "https://github.com/MuhammadMinhaj/School-Management-System",
+    "tags": [
+      "JavaScript",
+      "NodeJs",
+      "ExpressJs",
+      "Bootstrap",
+      "EJS",
+      "Axios",
+      "More..."
+    ],
+    "category_name": "web-development"
+  },
+  {
+    "id": 9,
+    "slug": "dr-omar-danouns-online-appointment-scheduler",
+    "name": "Dr. Omar Danoun's Online Appointment Scheduler",
+    "description": "A streamlined appointment booking platform designed for Dr. Omar Danoun. It features a user-friendly interface and integrates with Calendly for easy scheduling, ensuring efficient management of appointments and a seamless user experience.",
+    "thumbnail": "/storage/assets/thumbnails/9.png",
+    "date": "01-07-2024 - 15-07-2024",
+    "demo_link": "https://appointment.dromardanoun.com",
+    "source_link": "https://github.com/MuhammadMinhaj",
+    "tags": ["Typescript", "React.js", "Next.js", "TailwindCSS", "And More..."],
+    "category_name": "web-development"
+  },
+  {
+    "id": 10,
+    "slug": "lavossy-pvt-ltd-gift-claim-website",
+    "name": "Lavossy Pvt Ltd Gift Claim Website",
+    "description": "A dedicated gift claim platform for X Private Limited Company, integrated with their shopping site to allow customers to claim gift products. The system includes a web interface for users, an admin panel for order management, and a serverless backend for efficient processing and Amazon MFC integration.",
+    "thumbnail": "/storage/assets/thumbnails/10.png",
+    "date": "01-07-2024 - 15-07-2024",
+    "demo_link": "https://free.lavossy.com",
+    "source_link": "https://github.com/MuhammadMinhaj",
+    "tags": [
+      "Typescript",
+      "React.js",
+      "Next.js",
+      "TailwindCSS",
+      "AWS",
+      "S3",
+      "Cloudfront",
+      "Lambda",
+      "And More..."
+    ],
+    "category_name": "web-development"
+  },
+  {
+    "id": 11,
+    "slug": "ellty-company-task-list-application",
+    "name": "Ellty Company Task List Application",
+    "description": "A pixel-perfect task list application for Ellty Company, focusing on a highly detailed UI/UX design. The application allows users to mark tasks as completed and finalize them with a 'Done' button, featuring custom checkboxes designed meticulously in Figma.",
+    "thumbnail": "/storage/assets/thumbnails/10.png",
+    "date": "01-07-2024 - 15-07-2024",
+    "demo_link": "https://ellty-assignment-todo-task-by-minhaj.vercel.app",
+    "source_link": "https://github.com/MuhammadMinhaj",
+    "tags": ["Typescript", "React.js", "Next.js", "TailwindCSS", "Storybook"],
+    "category_name": "web-development"
+  }
+]

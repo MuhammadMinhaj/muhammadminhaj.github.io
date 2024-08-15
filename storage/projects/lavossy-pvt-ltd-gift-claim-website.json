@@ -1,0 +1,33 @@
+{
+  "name": "Lavossy Pvt Ltd Gift Claim Website",
+  "description": "### Project Overview\n\nThis project for X Pvt Ltd encompasses three key components:\n\n- **Web Interface:** Developed for customers to claim gift products after making a purchase on the main shopping site. The interface is user-friendly, ensuring a smooth claiming process.\n\n- **Admin Panel:** A comprehensive admin panel where administrators can manage gift claims. Admins can view orders, change statuses, and process claims. Once processed, the admin can place the claim order to Amazon MFC for direct shipping.\n\n- **Serverless Backend:** The backend, deployed on Amazon Lambda, handles all server-side logic, including order management and integration with Amazon Seller Central for seamless processing.\n\n### Deployment\n\n- **Web and Admin Deployment:** The web and admin interfaces are deployed on Amazon S3 with CloudFront for fast and reliable content delivery.\n- **Serverless Backend:** The serverless backend is deployed using Amazon Lambda functions, ensuring scalability and cost-efficiency.\n\nOverall, this project provides a robust solution for managing gift claims, leveraging Amazon's infrastructure for efficient and reliable operation.",
+  "video_url": "https://github.com/Muhammad-Minhaj/portfolio/blob/main/assets/videos/1.mp4?raw=true",
+  "video_source_type": "internal",
+  "thumbnail": "https://raw.githubusercontent.com/Muhammad-Minhaj/portfolio/main/assets/thumbnails/10.png",
+  "date": "01-07-2024 - 15-07-2024",
+  "demo_link": "https://free.lavossy.com",
+  "source_link": "https://github.com/MuhammadMinhaj",
+  "tags": [
+    "Typescript",
+    "React.js",
+    "Next.js",
+    "TailwindCSS",
+    "AWS",
+    "S3",
+    "Cloudfront",
+    "Lambda",
+    "And More..."
+  ],
+  "gallery": [
+    "https://swiperjs.com/demos/images/nature-1.jpg",
+    "https://swiperjs.com/demos/images/nature-2.jpg",
+    "https://swiperjs.com/demos/images/nature-3.jpg",
+    "https://swiperjs.com/demos/images/nature-4.jpg",
+    "https://swiperjs.com/demos/images/nature-5.jpg",
+    "https://swiperjs.com/demos/images/nature-6.jpg",
+    "https://swiperjs.com/demos/images/nature-7.jpg",
+    "https://swiperjs.com/demos/images/nature-8.jpg",
+    "https://swiperjs.com/demos/images/nature-9.jpg",
+    "https://swiperjs.com/demos/images/nature-10.jpg"
+  ]
+}
