@@ -1,37 +1,99 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-
-
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-  <loc>https://muhammadminhaj.github.io/</loc>
-  <lastmod>2022-02-07T11:34:47+00:00</lastmod>
-  <priority>1.00</priority>
+<loc>https://muhammadminhaj.github.io</loc>
+<lastmod>2024-08-15T05:04:25.560Z</lastmod>
+<changefreq>yearly</changefreq>
+<priority>1</priority>
 </url>
 <url>
-  <loc>https://muhammadminhaj.github.io/skills.html</loc>
-  <lastmod>2022-02-07T11:34:47+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://muhammadminhaj.github.io/skills</loc>
+<lastmod>2024-08-15T05:04:25.560Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
 </url>
 <url>
-  <loc>https://muhammadminhaj.github.io/portfolio.html</loc>
-  <lastmod>2022-02-07T11:34:47+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://muhammadminhaj.github.io/portfolio</loc>
+<lastmod>2024-08-15T05:04:25.560Z</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.5</priority>
 </url>
 <url>
-  <loc>https://muhammadminhaj.github.io/repositories.html</loc>
-  <lastmod>2022-02-07T11:34:47+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://muhammadminhaj.github.io/repositories</loc>
+<lastmod>2024-08-15T05:04:25.560Z</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.5</priority>
 </url>
 <url>
-  <loc>https://muhammadminhaj.github.io/contact.html</loc>
-  <lastmod>2022-02-07T11:34:47+00:00</lastmod>
-  <priority>0.80</priority>
+<loc>https://muhammadminhaj.github.io/contact</loc>
+<lastmod>2024-08-15T05:04:25.560Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.8</priority>
 </url>
-
-
+<url>
+<loc>https://muhammadminhaj.github.io/portfolioinformative-coding</loc>
+<lastmod>2024-08-15T05:04:25.560Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.9</priority>
+</url>
+<url>
+<loc>https://muhammadminhaj.github.io/portfoliodr-omar-danouns-blog-website</loc>
+<lastmod>2024-08-15T05:04:25.560Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.9</priority>
+</url>
+<url>
+<loc>https://muhammadminhaj.github.io/portfoliolaptop-optimize-e-commerce-website</loc>
+<lastmod>2024-08-15T05:04:25.560Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.9</priority>
+</url>
+<url>
+<loc>https://muhammadminhaj.github.io/portfoliolaptop-optimize-admin-panel</loc>
+<lastmod>2024-08-15T05:04:25.560Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.9</priority>
+</url>
+<url>
+<loc>https://muhammadminhaj.github.io/portfolioportfolio-website</loc>
+<lastmod>2024-08-15T05:04:25.560Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.9</priority>
+</url>
+<url>
+<loc>https://muhammadminhaj.github.io/portfolioschool-management-syste-website</loc>
+<lastmod>2024-08-15T05:04:25.560Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.9</priority>
+</url>
+<url>
+<loc>https://muhammadminhaj.github.io/portfolioschool-management-system-teacher-panel</loc>
+<lastmod>2024-08-15T05:04:25.560Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.9</priority>
+</url>
+<url>
+<loc>https://muhammadminhaj.github.io/portfolioschool-management-system-admin-panel-cms</loc>
+<lastmod>2024-08-15T05:04:25.560Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.9</priority>
+</url>
+<url>
+<loc>https://muhammadminhaj.github.io/portfoliodr-omar-danouns-online-appointment-scheduler</loc>
+<lastmod>2024-08-15T05:04:25.560Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.9</priority>
+</url>
+<url>
+<loc>https://muhammadminhaj.github.io/portfoliolavossy-pvt-ltd-gift-claim-website</loc>
+<lastmod>2024-08-15T05:04:25.560Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.9</priority>
+</url>
+<url>
+<loc>https://muhammadminhaj.github.io/portfolioellty-company-task-list-application</loc>
+<lastmod>2024-08-15T05:04:25.560Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.9</priority>
+</url>
 </urlset>
