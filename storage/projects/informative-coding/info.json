@@ -1,0 +1,32 @@
+{
+  "id": "1kgm05fxqlf",
+  "slug": "informative-coding",
+  "position": 4,
+  "name": "Informative Coding",
+  "description": "Informative Coding is a non-profit organization that helps to learn technology in Bangla. The purpose of which is to motivate people to learn technology by simply introducing them to technology.",
+  "thumbnail": "/storage/projects/informative-coding/thumbnail.png",
+  "start_date": "2019-05-11",
+  "end_date": "",
+  "live_link": "https://blusofy.github.io/informative-coding",
+  "source_link": "https://github.com/MuhammadMinhaj",
+  "tags": [
+    "Material-UI",
+    "Next.js",
+    "JavaScript",
+    "React.js"
+  ],
+  "category": "web-development",
+  "video_url": "",
+  "video_source_type": "embed",
+  "gallery": [
+    {
+      "image": "/storage/projects/informative-coding/gallery/1.png",
+      "title": "Gallery - 1"
+    },
+    {
+      "image": "/storage/projects/informative-coding/gallery/2.png",
+      "title": "Gallery - 2"
+    }
+  ],
+  "at_home": false
+}

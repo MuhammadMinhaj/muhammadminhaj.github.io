@@ -1,0 +1,88 @@
+{
+  "id": "cewm06qcj31",
+  "slug": "gift-claim-website-lavossy-private-ltd",
+  "position": 5,
+  "name": "Gift Claim Website - Lavossy Private Ltd",
+  "description": "A dedicated gift claim platform for X Private Limited Company, integrated with their shopping site to allow customers to claim gift products. The system includes a web interface for users, an admin panel for order management, and a serverless backend for efficient processing and Amazon MFC integration.",
+  "thumbnail": "/storage/projects/gift-claim-website-lavossy-private-ltd/thumbnail.jpg",
+  "start_date": "2024-07-01",
+  "end_date": "2024-07-15",
+  "live_link": "https://free.lavossy.com",
+  "source_link": "https://github.com/MuhammadMinhaj",
+  "tags": [
+    "TypeScript",
+    "React.js",
+    "Next.js",
+    "TailwindCSS",
+    "AWS",
+    "AWS Lambda",
+    "S3",
+    "Cloudfront"
+  ],
+  "category": "web-development",
+  "video_url": "",
+  "video_source_type": "embed",
+  "gallery": [
+    {
+      "image": "/storage/projects/gift-claim-website-lavossy-private-ltd/gallery/1.png",
+      "title": "Gallery - 1"
+    },
+    {
+      "image": "/storage/projects/gift-claim-website-lavossy-private-ltd/gallery/2.png",
+      "title": "Gallery - 2"
+    },
+    {
+      "image": "/storage/projects/gift-claim-website-lavossy-private-ltd/gallery/3.png",
+      "title": "Gallery - 3"
+    },
+    {
+      "image": "/storage/projects/gift-claim-website-lavossy-private-ltd/gallery/4.png",
+      "title": "Gallery - 4"
+    },
+    {
+      "image": "/storage/projects/gift-claim-website-lavossy-private-ltd/gallery/5.png",
+      "title": "Gallery - 5"
+    },
+    {
+      "image": "/storage/projects/gift-claim-website-lavossy-private-ltd/gallery/6.png",
+      "title": "Gallery - 6"
+    },
+    {
+      "image": "/storage/projects/gift-claim-website-lavossy-private-ltd/gallery/7.png",
+      "title": "Gallery - 7"
+    },
+    {
+      "image": "/storage/projects/gift-claim-website-lavossy-private-ltd/gallery/8.png",
+      "title": "Gallery - 8"
+    },
+    {
+      "image": "/storage/projects/gift-claim-website-lavossy-private-ltd/gallery/9.png",
+      "title": "Gallery - 9"
+    },
+    {
+      "image": "/storage/projects/gift-claim-website-lavossy-private-ltd/gallery/10.png",
+      "title": "Gallery - 10"
+    },
+    {
+      "image": "/storage/projects/gift-claim-website-lavossy-private-ltd/gallery/11.png",
+      "title": "Gallery - 11"
+    },
+    {
+      "image": "/storage/projects/gift-claim-website-lavossy-private-ltd/gallery/12.png",
+      "title": "Gallery - 12"
+    },
+    {
+      "image": "/storage/projects/gift-claim-website-lavossy-private-ltd/gallery/13.png",
+      "title": "Gallery - 13"
+    },
+    {
+      "image": "/storage/projects/gift-claim-website-lavossy-private-ltd/gallery/14.png",
+      "title": "Gallery - 14"
+    },
+    {
+      "image": "/storage/projects/gift-claim-website-lavossy-private-ltd/gallery/15.png",
+      "title": "Gallery - 15"
+    }
+  ],
+  "at_home": true
+}

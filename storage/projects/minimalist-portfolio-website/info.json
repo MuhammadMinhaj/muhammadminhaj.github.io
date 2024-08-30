@@ -1,0 +1,30 @@
+{
+  "id": "d8cm06sfqse",
+  "slug": "minimalist-portfolio-website",
+  "position": 4,
+  "name": "Minimalist Portfolio Website",
+  "description": "A minimalist portfolio website that combines a clean and intuitive UI/UX with modern web technologies. Built using Next.js and React.js, the site is styled with Material-UI to ensure a sleek, responsive design that enhances the presentation of content.",
+  "thumbnail": "/storage/projects/minimalist-portfolio-website/thumbnail.png",
+  "start_date": "2020-12-13",
+  "end_date": "2021-02-01",
+  "live_link": "https://muhammadminhaj.github.io/portfolio-website",
+  "source_link": "https://github.com/MuhammadMinhaj",
+  "tags": [
+    "JavaScript",
+    "React.js",
+    "Material-UI",
+    "Next.js",
+    "Axios",
+    "React-scroll"
+  ],
+  "category": "web-development",
+  "video_url": "",
+  "video_source_type": "embed",
+  "gallery": [
+    {
+      "image": "/storage/projects/minimalist-portfolio-website/gallery/1.png",
+      "title": "Gallery - 1"
+    }
+  ],
+  "at_home": false
+}

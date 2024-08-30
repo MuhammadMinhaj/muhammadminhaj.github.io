@@ -1,0 +1,1 @@
+Informative Coding is a non-profit organization that helps to learn technology in Bangla. The purpose of which is to motivate people to learn technology by simply introducing them to technology.

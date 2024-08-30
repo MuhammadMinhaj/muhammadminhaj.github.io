@@ -1,0 +1,59 @@
+{
+  "id": "3ssm0gypffg",
+  "slug": "muhammad-minhajs-website",
+  "position": 7,
+  "name": "Muhammad Minhaj's Website",
+  "description": "A personal portfolio website built initially on August 14, 2021, using Next.js 12 with JavaScript, and later rebuilt in August 2024 using TypeScript, Next.js v14, and the latest Material UI. The site features various sections, including home, skills, portfolio, GitHub repository, and a private dashboard, with integrated backend functionalities for project management.",
+  "thumbnail": "/storage/projects/muhammad-minhajs-website/thumbnail.png",
+  "start_date": "2021-08-14",
+  "end_date": "2024-08-30",
+  "live_link": "https://muhammadminhaj.github.io",
+  "source_link": "https://github.com/MuhammadMinhaj",
+  "tags": [
+    "Next.js",
+    "TypeScript",
+    "Material-UI",
+    "Zod",
+    "Swiper",
+    "lodash",
+    "react-dnd"
+  ],
+  "category": "web-development",
+  "video_url": "",
+  "video_source_type": "embed",
+  "gallery": [
+    {
+      "image": "/storage/projects/muhammad-minhajs-website/gallery/1.png",
+      "title": "Gallery - 1"
+    },
+    {
+      "image": "/storage/projects/muhammad-minhajs-website/gallery/2.png",
+      "title": "Gallery - 2"
+    },
+    {
+      "image": "/storage/projects/muhammad-minhajs-website/gallery/3.png",
+      "title": "Gallery - 3"
+    },
+    {
+      "image": "/storage/projects/muhammad-minhajs-website/gallery/4.png",
+      "title": "Gallery - 4"
+    },
+    {
+      "image": "/storage/projects/muhammad-minhajs-website/gallery/5.png",
+      "title": "Gallery - 5"
+    },
+    {
+      "image": "/storage/projects/muhammad-minhajs-website/gallery/6.png",
+      "title": "Gallery - 6"
+    },
+    {
+      "image": "/storage/projects/muhammad-minhajs-website/gallery/7.png",
+      "title": "Gallery - 7"
+    },
+    {
+      "image": "/storage/projects/muhammad-minhajs-website/gallery/8.png",
+      "title": "Gallery - 8"
+    }
+  ],
+  "at_home": false
+}
